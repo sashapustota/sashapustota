@@ -1,8 +1,6 @@
-## What's good?
+## How do?
 
-My work spans **mechanistic interpretability** and **predictive coding** - driven by a
-broader interest in understanding how intelligent systems, artificial and
-biological, store, process, and act on knowledge. Yep, yep!
+How do intelligent systems, artificial and biological, store, process, and act on knowledge? I use **mechanistic interpretability** and **predictive coding** to find out. Yup, yup!
 
 <!--
 **sashapustota/sashapustota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
