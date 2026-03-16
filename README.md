@@ -2,7 +2,7 @@
 
 How do intelligent systems, artificial and biological, store, process, and act on knowledge? I use **mechanistic interpretability** and **predictive coding** to find out. Yup, yup!
 
-![system](files/searhose.jpg)
+![system](files/seahorse.jpg)
 
 <!--
 **sashapustota/sashapustota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
