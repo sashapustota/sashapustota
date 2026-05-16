@@ -1,6 +1,3 @@
-## How do?
-
-How do intelligent systems, artificial and biological, store, process, and act on knowledge? I use **mechanistic interpretability** and **predictive coding** to find out. Yup, yup!
 
 ![system](files/seahorse.jpg)
 
